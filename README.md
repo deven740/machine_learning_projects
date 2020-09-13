@@ -5,6 +5,9 @@
 ### 📺 Latest YouTube Videos
 
 
+<br/>
+<br/>
+
 | Project Name | Project Description |
 | --- | --- |
 | [Project 1](https://github.com/deven740/machine_learning_projects/blob/master/Bike%20Sharing%20Demand/Bike_Sharing_Demand.ipynb) | Short Description |
