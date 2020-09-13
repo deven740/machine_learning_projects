@@ -10,7 +10,6 @@
 
 
 <br/>
-<br/>
 
 | Project Name | Project Description |
 | --- | --- |
