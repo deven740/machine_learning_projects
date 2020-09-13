@@ -1,6 +1,6 @@
 ---
 
-### Hi there, I'm Deven. This repository contains all the Machine Learning Case Studies I have completed 
+### Hi there, I'm Deven. This repository contains all the Machine Learning Case Studies I have solved. 
 
 ---
 
