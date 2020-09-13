@@ -12,7 +12,7 @@
 
 | Title  | Short Description | Source |
 | --------  | ------------------- | --------------------- |
-| Some data | Some more data      | data                  | 
+| [Project 1](https://github.com/deven740/machine_learning_projects/tree/master/Bike%20Sharing%20Demand) | Some more data      | data                  | 
 | data      | Some long data here | more data             | 
 
 
