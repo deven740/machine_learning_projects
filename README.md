@@ -10,9 +10,9 @@
 
 <br/>
 
-| CAse Study Name | Description | | Description |
-| --- | --- | --- |
-| [Project 1](https://github.com/deven740/machine_learning_projects/blob/master/Bike%20Sharing%20Demand/Bike_Sharing_Demand.ipynb) | Short Description | | Show file differences that haven't been staged | 
-| git diff | Show file differences that haven't been staged | | Show file differences that haven't been staged |
+| Header 1  | Another header here | This is a long header |
+| --------  | ------------------- | --------------------- |
+| Some data | Some more data      | data                  | 
+| data      | Some long data here | more data             | 
 
 
