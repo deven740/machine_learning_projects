@@ -14,9 +14,9 @@
 <br />
 <br />
 
-| Command | Description |
+| Project Name | Project Description |
 | --- | --- |
-| git status | List all new or modified files |
+| [Project 1](https://github.com/deven740/machine_learning_projects/blob/master/Bike%20Sharing%20Demand/Bike_Sharing_Demand.ipynb) | Short Description |
 | git diff | Show file differences that haven't been staged |
 
 
