@@ -1,8 +1,5 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
