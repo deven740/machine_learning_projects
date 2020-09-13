@@ -6,6 +6,12 @@
 
 <br/>
 
+
+![alt text](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
+
+<br/>
+
+
 | Title  | Short Description | Source |
 | --------  | ------------------- | --------------------- |
 | [Bike Sharing Demand](https://github.com/deven740/machine_learning_projects/tree/master/Bike%20Sharing%20Demand) | Predicting number of Bikes rented per hour | [Kaggle](https://www.kaggle.com/c/bike-sharing-demand) | 
